@@ -1,0 +1,1 @@
+<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#cccccc"><div id="div_chat"><embed type="application/x-shockwave-flash" src="console.swf?CACHE_VERSION=0" width="100%" height="100%" style="undefined" id="BBL TCHAT" name="BBL TCHAT" bgcolor="#505080" quality="high" wmode="gpu" flashvars="CACHE_VERSION=0&SESSION=0"></div></body>

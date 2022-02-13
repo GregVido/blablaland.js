@@ -1,0 +1,27 @@
+{
+  "name": "blablaland.js",
+  "version": "1.0.0",
+  "description": "Retro blablaland Open Source!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregVido/blablaland.js.git"
+  },
+  "author": "GregVido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregVido/blablaland.js/issues"
+  },
+  "homepage": "https://github.com/GregVido/blablaland.js#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "buffer-split": "^1.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "request": "^2.88.2"
+  }
+}

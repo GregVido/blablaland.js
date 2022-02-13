@@ -1,0 +1,7 @@
+{
+    "allowTouriste":"true",
+    "msgErrorTouriste":"Les touristes ont été bloqué.",
+    "showPacketsType":"true",
+    "allowEditSkinId": "true",
+    "allowEditSkinColor": "true"
+}
