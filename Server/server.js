@@ -11,10 +11,11 @@ if (database.length > 2) database = JSON.parse(database);
 else database = {};
 
 var port = 80;
-var servername = "localhost";
 
 var request = require("request");
 const config = JSON.parse(fs.readFileSync('config.json'));
+
+var servername = config.ip;
 
 request({ uri: "https://raw.githubusercontent.com/GregVido/blablaland.js/master/README.md" },
     function (error, response, body) {

@@ -50,9 +50,9 @@
                 0
             ],
             "id": 569,
-            "posX": 77750,
-            "posY": 33950,
-            "direction": false
+            "posX": 42150,
+            "posY": 19250,
+            "direction": true
         },
         "map": {
             "id": 251
@@ -61,7 +61,7 @@
         "bbl": 0,
         "xp": 0,
         "chatColor": "0129402a0a20333334",
-        "session": "3347447",
+        "session": "2466191",
         "time": 1571470817096,
         "role": "Membre"
     }
