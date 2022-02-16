@@ -17,6 +17,11 @@ npm start
 ```
 Enjoy ! Vous pouvez désormer accéder à l'émulateur en allant sur http://localhost =) 
 
+## NEWS v0.0.4
+
+    - Ajoût d'un paramètre "ip" dans config.json qui faut renseigner par l'ip du serveur.
+    - Réparation de nombreux bug
+
 ## NEWS v0.0.3
 
     - Ajoût d'un client pour activer flash player
@@ -55,4 +60,4 @@ Il se trouve dans le dossier Server, voici le fonctionnement:
 Le client est un outil pour se connecter au serveur, si vous décidé d'en créer un, vérifiez que votre serveur est bien publique, et envoyé le nom de domaine/ip au personnes avec qui vous voulez jouer. <br />
 La personne aura juste à renseigner le nom de domaine/ip dans le client (host) pour se connecter au serveur.
 
-<b>À Noter qu'il faut installer flash player 11 pour internet explorer, vous pouvez le faire en <a href="http://www.oldversion.fr/windows/download/macromedia-flash-player-11-3-300-257-ie">cliquant ici</a>.</b>
+<b>À Noter qu'il faut installer flash player 11 pour internet explorer, vous pouvez le faire en <a href="http://www.oldversion.fr/windows/macromedia-flash-player-11-3-300-257-ie">cliquant ici</a>.</b>
